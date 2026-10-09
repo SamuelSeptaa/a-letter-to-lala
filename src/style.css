@@ -162,8 +162,23 @@ button:focus-visible {
 .page-content {
   width: 100%;
   max-width: 430px;
+  max-height: calc(100vh - 150px);
   margin: 0 auto;
   padding-top: 30px;
+  padding-right: 4px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  scrollbar-width: thin;
+  scrollbar-color: #ebc4d8 transparent;
+}
+
+.page-content::-webkit-scrollbar {
+  width: 7px;
+}
+
+.page-content::-webkit-scrollbar-thumb {
+  border-radius: 99px;
+  background: #ebc4d8;
 }
 
 .page-enter-active,
@@ -416,14 +431,27 @@ button:focus-visible {
 .letter-card {
   position: relative;
   max-width: 420px;
+  max-height: min(430px, calc(100vh - 260px));
   margin: 0 auto;
   padding: 24px 20px 28px;
-  overflow: hidden;
+  overflow-y: auto;
+  overflow-x: hidden;
   border: 1px solid #f0d5e5;
   border-radius: 7px 22px 22px 22px;
   background: #fff;
   box-shadow: 0 8px 22px #c58caf12;
   animation: card-appear .35s ease both;
+  scrollbar-width: thin;
+  scrollbar-color: #ebc4d8 transparent;
+}
+
+.letter-card::-webkit-scrollbar {
+  width: 7px;
+}
+
+.letter-card::-webkit-scrollbar-thumb {
+  border-radius: 99px;
+  background: #ebc4d8;
 }
 
 .letter-decoration {
@@ -1015,6 +1043,7 @@ button:focus-visible {
   }
 
   .page-content {
+    max-height: calc(100vh - 120px);
     padding-top: 25px;
   }
 
