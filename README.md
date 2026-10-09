@@ -1,5 +1,25 @@
-# Vue 3 + Vite
+# Love Page
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A warm, animated love note built with Vue 3 and Vite.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Local development
+
+```bash
+npm install
+npm run dev
+```
+
+## Deploy to GitHub Pages
+
+1. Push this project to a GitHub repository.
+2. In GitHub, open the repository settings and enable GitHub Pages.
+3. Select the GitHub Actions deployment source.
+4. Push to the `main` branch; the workflow in `.github/workflows/deploy.yml` will build and publish the site automatically.
+
+If your repository name is different from `love-page`, update the `repoName` value in `vite.config.js` to match it.
+
+## Build
+
+```bash
+npm run build
+```

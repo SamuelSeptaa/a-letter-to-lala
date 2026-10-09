@@ -150,13 +150,13 @@ function restart() {
 
             <p>Belum lagi Adrenalin yang bikin jantung berdebar tiap kamu muncul, apalagi saat obrolan santai kita berubah jadi hal yang paling aku nantikan di hari itu~ 🦋</p>
 
-            <p>Kenalin juga yang namanya Cortisol, hormon stres yang suka ngilang kalau lagi sama kamu ✌️. Tiba-tiba aku bisa lebih tenang, lebih santai, dan malah pengin terus tinggal di dekat kamu.</p>
+            <p>Kenalin juga yang namanya Cortisol, hormon stres yang suka ngilang kalau lagi sama kamu ✌️. Tiba-tiba aku bisa lebih tenang, lebih santai, dan malah ingin terus di dekat kamu.</p>
 
-            <p>Terus si Serotonin jadi jalan-jalan dalam tubuh, bikin merasa nyaman & bahagia gitu 😸. Bahkan hal kecil seperti chat dari kamu bisa bikin hariku jadi lebih cerah.</p>
+            <p>Terus si Serotonin jadi jalan-jalan dalam tubuh, bikin merasa nyaman & bahagia gitu 😸</p>
 
-            <p>Terus ada si Oksitosin, yang katanya bikin ikatan emosional makin erat. Pantesan, setiap dekat Lala, rasanya makin nyaman, makin sayang, dan makin pengin ada di sisi kamu lebih lama. 🥹💗 </p>
+            <p>Terus ada si Oksitosin, yang katanya bikin ikatan emosional makin erat. Pantesan, setiap dekat Lala, rasanya makin nyaman, makin sayang, dan makin ingin ada di sisi kamu lebih lama. 🥹💗 </p>
 
-            <p>Kalau dipikir-pikir, kayaknya bukan hormon aja yang bikin begini. Soalnya, sesimpel apa pun hariku, ujung-ujungnya pengin cerita ke Lala lagi, pengin lihat kamu senyum, dan pengin mempertahankan momen-momen kecil itu. 💗😸</p>
+            <p>Kalau dipikir-pikir, kayaknya bukan hormon aja yang bikin begini. Soalnya, sesimpel apa pun hariku, ujung-ujungnya ingin cerita ke Lala lagi, ingin lihat kamu senyum, dan ingin mempertahankan momen-momen kecil itu. 💗😸</p>
             <div class="letter-footer">
               <span>with a little bit of nervousness and a lot of feelings,</span>
               <strong>samuel, your ISD ♡</strong>
@@ -263,7 +263,7 @@ function restart() {
                So, can I<br /> <span>be your</span> favorite person?
               </h1>
               <p>
-                Dari yang awalnya cuma ngobrol biasa, sampai sekarang ada aja hal tentang kamu yang bikin aku seneng. Aku suka apa yang kita punya sekarang, dan kalau boleh jujur, aku pengin lihat sejauh apa kita bisa melangkah bareng. Gimana, Lala? 💕
+                Dari yang awalnya cuma ngobrol biasa, sampai sekarang ada aja hal tentang kamu yang bikin aku seneng. Aku suka apa yang kita punya sekarang, dan kalau boleh jujur, aku ingin lihat sejauh apa kita bisa melangkah bareng. Gimana, Lala? 💕
               </p>
             </div>
 
