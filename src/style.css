@@ -368,7 +368,9 @@ button:focus-visible {
 
 .letter-card {
   position: relative;
-  padding: 23px 20px;
+  max-width: 420px;
+  margin: 0 auto;
+  padding: 24px 20px 28px;
   overflow: hidden;
   border: 1px solid #f0d5e5;
   border-radius: 7px 22px 22px 22px;
@@ -399,10 +401,15 @@ button:focus-visible {
 }
 
 .letter-card p {
-  margin: 0 0 16px;
-  color: #8d778c;
-  font-size: 13px;
-  line-height: 1.95;
+  margin: 0 0 18px;
+  color: #7d667d;
+  font-size: 14px;
+  line-height: 2.1;
+  letter-spacing: .01em;
+}
+
+.letter-card p:first-of-type {
+  margin-top: 4px;
 }
 
 .letter-card p:last-of-type {
@@ -412,7 +419,7 @@ button:focus-visible {
 .letter-footer {
   display: grid;
   gap: 6px;
-  margin-top: 24px;
+  margin-top: 26px;
   color: #baa1b5;
   font-family: Georgia, serif;
   font-size: 12px;
