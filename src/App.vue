@@ -8,22 +8,34 @@ const answer = ref('')
 
 const reasons = [
   {
-    emoji: '🥹',
-    title: 'Your smile',
+    emoji: '🌱',
+    title: 'The little things',
     description:
-      'Senyummu tuh agak mencurigakan. Soalnya sekali lihat, mood aku langsung naik. Ini senyum atau cheat code?',
+      'Obrolan sederhana sama Lala bisa bikin hari biasa terasa sedikit lebih seru. Bahaya juga, ya.',
   },
   {
-    emoji: '🫶',
-    title: 'Your personality',
+    emoji: '🌈',
+    title: 'Your happy vibes',
     description:
-      'Ngobrol sama kamu tuh menyenangkan. Niatnya cuma sebentar, tahu-tahu pengin lanjut terus.',
+      'Kamu punya vibes yang bikin suasana jadi lebih menyenangkan. Kayak mood booster, tapi versi manusia.',
+  },
+  {
+    emoji: '😹',
+    title: 'Your kind of funny',
+    description:
+      'Aku bikin humor, ternyata Lala yang lebih lucu. Kayaknya selera humorku perlu diperiksa.',
+  },
+  {
+    emoji: '😗',
+    title: 'Your teasing',
+    description:
+      'Ini aneh banget, ya, kok malah jadi salah satu hal favoritku.',
   },
   {
     emoji: '🌷',
     title: 'Just being you',
     description:
-      'Kamu nggak perlu jadi siapa-siapa. Jadi diri kamu sendiri aja udah punya tempat spesial di pikiranku.',
+      'Nggak harus selalu ada alasan besar. Meski begitu Lala punya sesuatu yang membuatku ingin mengenalmu lebih jauh.',
   },
 ]
 
@@ -109,9 +121,8 @@ function restart() {
               <span>sesuatu nih!</span>
             </h1>
             <p>
-              Tenang, ini bukan yang aneh-aneh. <br>
-              Ini kejutan kecil dari aku yang ingin menyampai sesuatu. 🤏💗
-              Tapi malu-malu kalau ngomong langsung
+              Ini kejutan kecil dari aku yang ingin menyampaikan sesuatu namun malu-malu. 🤏💗
+              <br>Sooo, I made this tiny corner of the internet just for you.
             </p>
           </div>
 
@@ -135,20 +146,20 @@ function restart() {
 
           <p>Hai, kamu yang entah kenapa berhasil bikin hormon-hormonku kerja lembur. 💗</p>
 
-            <p>
-              Aku punya pengakuan kecil. Kayaknya aku mulai suka sama kamu.
-              Awalnya biasa aja, terus kok jadi nungguin chat, senyum sendiri,
-              dan tiba-tiba inget hal random tentang kamu.
-            </p>
+            <p>Katanya, saat jatuh cinta, dopamin bikin kita senang setiap kali mendapat perhatian dari seseorang. Pantesan, tiap ada Lala, senyumku suka muncul sendiri tanpa aba-aba. </p>
 
-            <p>
-              Curiga ada yang salah sama otakku. Tapi setelah diperiksa...
-              sepertinya cuma kamu penyebabnya. 😔💗
-            </p>
+            <p>Belum lagi Adrenalin yang bikin jantung berdebar tiap kamu muncul, apalagi saat genggaman tangan couplean itu~ 🦋</p>
 
+            <p>Kenalin juga yang namanya Cortisol, hormon stres yang suka ngilang kalau lagi sama kamu ✌️</p>
+
+            <p>Terus si Serotonin jadi jalan-jalan dalam tubuh, bikin merasa nyaman & bahagia gitu 😸</p>
+
+            <p>Terus ada si Oksitosin, yang katanya bikin ikatan emosional makin erat. Pantesan, setiap dekat Lala, rasanya makin nyaman, makin sayang, dan makin pengin genggam tangan itu lebih lama. 🥹💗 </p>
+
+            <p>Kalau dipikir-pikir, kayaknya bukan hormon aja yang bikin begini. Soalnya, sesimpel apa pun hariku, ujung-ujungnya pengin cerita ke Lala lagi. 💗😸</p>
             <div class="letter-footer">
               <span>with a little bit of nervousness,</span>
-              <strong>your secret admirer ♡</strong>
+              <strong>samuel, your ISD ♡</strong>
             </div>
 
             <span class="letter-stamp">FOR YOU</span>
@@ -170,8 +181,7 @@ function restart() {
             Kenapa <span>kamu?</span>
           </h1>
           <p class="section-description">
-            Tap kartu-kartu ini buat membuka sedikit rahasia.
-            Tenang, bukan jebakan Batman.
+            Tap kartu-kartu ini buat membuka sedikit apa yang aku rasakan.
           </p>
 
           <div class="reason-progress">
@@ -305,9 +315,8 @@ function restart() {
     </Transition>
 
     <footer class="cute-footer">
-      <span>made with</span>
+      <span>made with a tiny bit of courage & lots of </span>
       <span class="footer-heart">♥</span>
-      <span>and a tiny bit of courage</span>
     </footer>
   </main>
 </template>
