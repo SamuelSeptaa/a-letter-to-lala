@@ -29,7 +29,7 @@ const reasons = [
     emoji: '😗',
     title: 'Your teasing',
     description:
-      'Ini aneh banget, ya, kok malah jadi salah satu hal favoritku.',
+      'Ini aneh banget, ya, kok bisa ke-tengilan Lala malah jadi salah satu hal favoritku.',
   },
   {
     emoji: '🌷',
@@ -80,7 +80,7 @@ function restart() {
     <header class="cute-header">
       <button class="brand" @click="restart" aria-label="Kembali ke awal">
         <span class="brand-icon">♥</span>
-        <span>Lala crush club</span>
+        <span>Lala & Samuel</span>
       </button>
       <span class="step-counter">{{ step + 1 }} / 4</span>
     </header>
@@ -122,7 +122,7 @@ function restart() {
             </h1>
             <p>
               Ini kejutan kecil dari aku yang ingin menyampaikan sesuatu namun malu-malu. 🤏💗
-              <br>Sooo, I made this tiny corner of the internet just for you.
+              <br>Sebuah hal kecil di Internet yang aku harap bisa bikin kamu tersenyum, dan mungkin sedikit penasaran.
             </p>
           </div>
 
@@ -146,19 +146,19 @@ function restart() {
 
           <p>Hai, kamu yang entah kenapa berhasil bikin hormon-hormonku kerja lembur. 💗</p>
 
-            <p>Katanya, saat jatuh cinta, dopamin bikin kita senang setiap kali mendapat perhatian dari seseorang. Pantesan, tiap ada Lala, senyumku suka muncul sendiri tanpa aba-aba. </p>
+            <p>Katanya, saat jatuh cinta, dopamin bikin kita senang setiap kali mendapat perhatian dari seseorang. Pantesan, tiap ada Lala, senyumku suka muncul sendiri tanpa aba-aba, apalagi kalau kamu lagi ngasih tawa yang bikin hari jadi lebih ringan. </p>
 
-            <p>Belum lagi Adrenalin yang bikin jantung berdebar tiap kamu muncul, apalagi saat genggaman tangan couplean itu~ 🦋</p>
+            <p>Belum lagi Adrenalin yang bikin jantung berdebar tiap kamu muncul, apalagi saat obrolan santai kita berubah jadi hal yang paling aku nantikan di hari itu~ 🦋</p>
 
-            <p>Kenalin juga yang namanya Cortisol, hormon stres yang suka ngilang kalau lagi sama kamu ✌️</p>
+            <p>Kenalin juga yang namanya Cortisol, hormon stres yang suka ngilang kalau lagi sama kamu ✌️. Tiba-tiba aku bisa lebih tenang, lebih santai, dan malah pengin terus tinggal di dekat kamu.</p>
 
-            <p>Terus si Serotonin jadi jalan-jalan dalam tubuh, bikin merasa nyaman & bahagia gitu 😸</p>
+            <p>Terus si Serotonin jadi jalan-jalan dalam tubuh, bikin merasa nyaman & bahagia gitu 😸. Bahkan hal kecil seperti chat dari kamu bisa bikin hariku jadi lebih cerah.</p>
 
-            <p>Terus ada si Oksitosin, yang katanya bikin ikatan emosional makin erat. Pantesan, setiap dekat Lala, rasanya makin nyaman, makin sayang, dan makin pengin genggam tangan itu lebih lama. 🥹💗 </p>
+            <p>Terus ada si Oksitosin, yang katanya bikin ikatan emosional makin erat. Pantesan, setiap dekat Lala, rasanya makin nyaman, makin sayang, dan makin pengin ada di sisi kamu lebih lama. 🥹💗 </p>
 
-            <p>Kalau dipikir-pikir, kayaknya bukan hormon aja yang bikin begini. Soalnya, sesimpel apa pun hariku, ujung-ujungnya pengin cerita ke Lala lagi. 💗😸</p>
+            <p>Kalau dipikir-pikir, kayaknya bukan hormon aja yang bikin begini. Soalnya, sesimpel apa pun hariku, ujung-ujungnya pengin cerita ke Lala lagi, pengin lihat kamu senyum, dan pengin mempertahankan momen-momen kecil itu. 💗😸</p>
             <div class="letter-footer">
-              <span>with a little bit of nervousness,</span>
+              <span>with a little bit of nervousness and a lot of feelings,</span>
               <strong>samuel, your ISD ♡</strong>
             </div>
 
@@ -260,12 +260,10 @@ function restart() {
             <div class="final-copy">
               <span class="eyebrow">okay, deep breath...</span>
               <h1>
-                Aku suka<br />
-                <span>sama kamu.</span>
+               So, can I<br /> <span>be your</span> favorite person?
               </h1>
               <p>
-                Bukan cuma suka diskon tanggal kembar, tapi beneran suka kamu.
-                Jadi... boleh nggak aku kenal kamu lebih dekat? 🥹
+                Dari yang awalnya cuma ngobrol biasa, sampai sekarang ada aja hal tentang kamu yang bikin aku seneng. Aku suka apa yang kita punya sekarang, dan kalau boleh jujur, aku pengin lihat sejauh apa kita bisa melangkah bareng. Gimana, Lala? 💕
               </p>
             </div>
 
@@ -286,8 +284,8 @@ function restart() {
               <span class="result-emoji">🥹💗</span>
               <h1>YAYYYY!</h1>
               <p>
-                Oke, sekarang aku boleh senyum-senyum sendiri dengan alasan
-                yang valid. Makasih ya! Kita jalanin pelan-pelan bareng, ya?
+                Oke, sekarang aku boleh senyum-senyum sendiri dengan mode ABCDEFGHIJKLMNOPQRSTUVWXYZ.
+                <br>Terima kasih karena kamu udah jadi bagian dari momen-momen kecil yang makin aku hargai. Sekarang, biji apel yang udah kita tanam bareng tinggal kita siram dan rawat pelan-pelan. Semoga kita bisa terus menjaganya bersama, sampai suatu hari nanti tumbuh jadi pohon yang kuat dan menghasilkan buah-buah manis yang bisa kita nikmati bareng. 🍎🌱💗
               </p>
               <span class="result-note">NEW MEMORY UNLOCKED ♡</span>
             </div>
